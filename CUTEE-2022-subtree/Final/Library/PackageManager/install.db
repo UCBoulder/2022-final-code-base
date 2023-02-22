@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "38699c4ce8cf",
+        "mtime": 1652942638933,
+        "size": 55036630,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "dd97a7745746",
+        "mtime": 1652942636892,
+        "size": 1130819,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1652942636820,
+        "size": 796147,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "3bad99c89252",
+        "mtime": 1652942636780,
+        "size": 8670682,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.gpustats": {
+      "tarball": {
+        "hash": "c5bca7da8201",
+        "mtime": 1652942636233,
+        "size": 136802,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1652942636806,
+        "size": 343203,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1652942636274,
+        "size": 226297,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "2095abe3b61d",
+        "mtime": 1652942637020,
+        "size": 5303497,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "4e92ced1683c",
+        "mtime": 1652942636205,
+        "size": 18099,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.7.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "2c119bd3c146",
+        "mtime": 1652942636374,
+        "size": 2110451,
+        "localPath": "C:\\Users\\Mckib\\CUTEE_CLUB\\Final\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.7.3.tgz"
+      }
+    }
+  }
+}
